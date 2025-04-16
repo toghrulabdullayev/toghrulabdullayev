@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🛠️ I’m currently honing my skills in the MERN stack and React Native.<br>🤝 I’m looking to collaborate on anything that helps enhance my abilities.<br>🚀 I’m currently learning Next.js for server-side rendering and DevOps to better deploy and manage full-stack applications.<br>💬 Ask me about anything related to the MERN stack.<br>💡 Fun fact: I probably enjoy debugging code a bit too much!
 
