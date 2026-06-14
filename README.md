@@ -1,6 +1,6 @@
 ### About Me
 
-I am a full-stack software engineer with two years of experience in modern web and mobile application development. My programming foundation centers on C#, Go, and TypeScript. Utilizing these languages, I work with backend and frontend frameworks such as ASP.NET Core, Node.js, React, and Angular to design clean, maintainable, and structured architectures.
+I am a full-stack developer with two years of experience in modern web and mobile application development. My programming foundation centers on C#, Go, and TypeScript. Utilizing these languages, I work with backend and frontend frameworks such as ASP.NET Core, Node.js, React, and Angular to design clean, maintainable, and structured architectures.
 
 Currently, my work involves building microservices-based applications using ASP.NET Core and Go, with an emphasis on modular backend design, performance-oriented service communication, and containerization. I spend my time studying software design patterns, learning about the architecture of data-intensive systems, and working on both frontend and backend integrations.
 
