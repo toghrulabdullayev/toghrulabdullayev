@@ -1,33 +1,57 @@
-## 🛠️ Tech Stack
+### Tech Stack
 
-### 💻 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.dot_io&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<table>
+<!-- Languages -->
+<tr>
+<td valign="middle" align="left"><b>Languages</b></td>
+<td valign="middle" align="left">
+<img src="https://skills.syvixor.com/api/icons?i=csharp" width="40" height="40" alt="C#"/>
+<img src="https://skills.syvixor.com/api/icons?i=typescript" width="40" height="40" alt="TypeScript"/>
+<img src="https://skills.syvixor.com/api/icons?i=golang" width="40" height="40" alt="Go"/>
+<img src="https://skills.syvixor.com/api/icons?i=python" width="40" height="40" alt="Python"/>
+</td>
+</tr>
+<!-- Frontend -->
+<tr>
+<td valign="middle" align="left"><b>Frontend</b></td>
+<td valign="middle" align="left">
+<img src="https://skills.syvixor.com/api/icons?i=react" width="40" height="40" alt="React"/>
+<img src="https://skills.syvixor.com/api/icons?i=angular" width="40" height="40" alt="Angular"/>
+<img src="https://skills.syvixor.com/api/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
+<img src="https://skills.syvixor.com/api/icons?i=reactnative" width="40" height="40" alt="React Native"/>
+<img src="https://skills.syvixor.com/api/icons?i=expo" width="40" height="40" alt="Expo"/>
+<img src="https://skills.syvixor.com/api/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS"/>
+</td>
+</tr>
+<!-- Backend -->
+<tr>
+<td valign="middle" align="left"><b>Backend</b></td>
+<td valign="middle" align="left">
+<img src="https://skills.syvixor.com/api/icons?i=dotnet" width="40" height="40" alt="ASP.NET Core"/>
+<img src="https://skills.syvixor.com/api/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
+<img src="https://skills.syvixor.com/api/icons?i=express" width="40" height="40" alt="Express"/>
+<img src="https://skills.syvixor.com/api/icons?i=jwt" width="40" height="40" alt="JWT"/>
+<img src="https://skills.syvixor.com/api/icons?i=grpc" width="40" height="40" alt="gRPC"/>
+</td>
+</tr>
+<!-- Databases -->
+<tr>
+<td valign="middle" align="left"><b>Databases</b></td>
+<td valign="middle" align="left">
+<img src="https://skills.syvixor.com/api/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://skills.syvixor.com/api/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>
+<img src="https://skills.syvixor.com/api/icons?i=redis" width="40" height="40" alt="Redis"/>
+<img src="https://skills.syvixor.com/api/icons?i=firebase" width="40" height="40" alt="Firebase"/>
+</td>
+</tr>
+<!-- Tools & Platforms -->
+<tr>
+<td valign="middle" align="left"><b>Tools & Platforms</b></td>
+<td valign="middle" align="left">
+<img src="https://skills.syvixor.com/api/icons?i=git" width="40" height="40" alt="Git"/>
+<img src="https://skills.syvixor.com/api/icons?i=docker" width="40" height="40" alt="Docker"/>
+<img src="https://skills.syvixor.com/api/icons?i=linux" width="40" height="40" alt="Linux"/>
+<img src="https://skills.syvixor.com/api/icons?i=bash" width="40" height="40" alt="Bash"/>
+</td>
+</tr>
+</table>
