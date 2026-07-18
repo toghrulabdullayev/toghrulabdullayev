@@ -34,6 +34,7 @@ Currently, my work involves building microservices-based applications using ASP.
     <td valign="middle" align="left"><b>Backend</b></td>
     <td valign="middle" align="left">
       <img src="https://skills.syvixor.com/api/icons?i=dotnet" align="center" width="40" height="40" alt="ASP.NET Core"/>
+      <img src="https://skills.syvixor.com/api/icons?i=fiber" align="center" width="40" height="40" alt="Fiber"/>
       <img src="https://skills.syvixor.com/api/icons?i=nodejs" align="center" width="40" height="40" alt="Node.js"/>
       <img src="https://skills.syvixor.com/api/icons?i=express" align="center" width="40" height="40" alt="Express"/>
       <img src="https://skills.syvixor.com/api/icons?i=jwt" align="center" width="40" height="40" alt="JWT"/>
