@@ -25,7 +25,6 @@ Currently, my work involves building microservices-based applications using ASP.
       <img src="https://skills.syvixor.com/api/icons?i=angular" align="center" width="40" height="40" alt="Angular"/>
       <img src="https://skills.syvixor.com/api/icons?i=nextjs" align="center" width="40" height="40" alt="Next.js"/>
       <img src="https://skills.syvixor.com/api/icons?i=reactnative" align="center" width="40" height="40" alt="React Native"/>
-      <img src="https://skills.syvixor.com/api/icons?i=expo" align="center" width="40" height="40" alt="Expo"/>
       <img src="https://skills.syvixor.com/api/icons?i=tailwind" align="center" width="40" height="40" alt="Tailwind CSS"/>
     </td>
   </tr>
