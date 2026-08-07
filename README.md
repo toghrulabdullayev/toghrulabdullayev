@@ -47,6 +47,7 @@ Currently, my work involves building microservices-based applications using ASP.
       <img src="https://skills.syvixor.com/api/icons?i=mongodb" align="center" width="40" height="40" alt="MongoDB"/>
       <img src="https://skills.syvixor.com/api/icons?i=redis" align="center" width="40" height="40" alt="Redis"/>
       <img src="https://skills.syvixor.com/api/icons?i=firebase" align="center" width="40" height="40" alt="Firebase"/>
+      <img src="https://skills.syvixor.com/api/icons?i=elasticsearch" align="center" width="40" height="40" alt="Elasticsearch"/>
     </td>
   </tr>
   <!-- Tools & Platforms -->
