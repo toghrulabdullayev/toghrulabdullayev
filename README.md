@@ -14,7 +14,6 @@ Currently, my work involves building microservices-based applications using ASP.
       <img src="https://skills.syvixor.com/api/icons?i=typescript" align="center" width="40" height="40" alt="TypeScript"/>
       <img src="https://skills.syvixor.com/api/icons?i=csharp" align="center" width="40" height="40" alt="C#"/>
       <img src="https://skills.syvixor.com/api/icons?i=golang" align="center" width="40" height="40" alt="Go"/>
-      <img src="https://skills.syvixor.com/api/icons?i=python" align="center" width="40" height="40" alt="Python"/>
     </td>
   </tr>
   <!-- Frontend -->
