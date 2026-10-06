@@ -53,11 +53,11 @@ Currently, my work involves building microservices-based applications using ASP.
   <tr>
     <td valign="middle" align="left"><b>Tools & Platforms</b></td>
     <td valign="middle" align="left">
-      <img src="https://skills.syvixor.com/api/icons?i=github" align="center" width="40" height="40" alt="GitHub"/>
       <img src="https://skills.syvixor.com/api/icons?i=gitlab" align="center" width="40" height="40" alt="GitLab"/>
       <img src="https://skills.syvixor.com/api/icons?i=linux" align="center" width="40" height="40" alt="Linux"/>
       <img src="https://skills.syvixor.com/api/icons?i=docker" align="center" width="40" height="40" alt="Docker"/>
       <img src="https://skills.syvixor.com/api/icons?i=kubernetes" align="center" width="40" height="40" alt="Kubernetes"/>
+      <img src="https://skills.syvixor.com/api/icons?i=datadog" align="center" width="40" height="40" alt="Datadog"/>
     </td>
   </tr>
 </table>
